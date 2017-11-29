@@ -1,8 +1,5 @@
 """
 This program converts binary numbers to decimal, decimal to binary.
-http://www.codingfling.com/2017/post146/binary-conversion-program-including-fractions/
-codingfling.com.au
-matt@codingfling.com
 """
 
 
